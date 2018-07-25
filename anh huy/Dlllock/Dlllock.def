@@ -1,3 +1,0 @@
-EXPORTS
-installLockMouseHook @1
-installLockSomeKey @2

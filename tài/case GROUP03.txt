@@ -1,0 +1,43 @@
+case IDC_Maintanggio:   ///BUTTON DÙNG ĐỂ TĂNG GIỜ 
+			break;
+		case IDC_Maingiamgio:   ///BUTTON DÙNG ĐỂ GIẢM GIỜ
+			break;
+		case IDC_Maintangphut:   ///BUTTON DÙNG ĐỂ TĂNG PHÚT
+			break;
+		case IDC_Maingiamphut:   ///BUTTON DÙNG ĐỂ GIẢM PHÚT
+			break;
+		////////////////////////////////////////////////////
+
+		case IDC_Mainstarttanggio:   
+			break;
+		case IDC_mainstarttangphut:     ///Các case dùng để tăng giờ, phút và buổi bắt đầu sử dụng
+			break;
+		case IDC_Mainstartdoibuoi1:
+			break;
+			
+		/////////////////////////////////////////////////////
+		case IDC_Mainstartgiamgio:
+			break;
+		case IDC_Mainstartgiamphut:   ///Các case dùng để giảm giờ, phút và buổi bắt đầu sử dụng
+			break;
+		case IDC_Mainstartdoibuoi2:
+			break;
+			
+		//////////////////////////////////////////////////////
+
+		case IDC_Mainendtanggio:
+			break;
+		case IDC_Mainendtangphut:   ///Các case dùng để tăng giờ, phút và buổi kết thúc sử dụng
+			break;
+		case IDC_Mainenddoibuoi1:
+			break;
+			
+		//////////////////////////////////////////////////////
+		case IDC_Mainendgiamgio:
+			break;
+		case IDC_Mainendgiamphut:   ///Các case dùng để giảm giờ, phút và buổi kết thúc sử dụng
+			break;
+		case IDC_Mainenddoibuoi2:
+			break;
+			
+		//////////////////////////////////////////////////////
