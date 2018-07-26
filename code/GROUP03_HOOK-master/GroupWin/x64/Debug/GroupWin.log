@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  GroupWin.cpp
+c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(123): warning C4005: 'IDC_Mainlock': macro redefinition
+  c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(59): note: see previous definition of 'IDC_Mainlock'
+c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(124): warning C4005: 'IDC_Mainshutdown': macro redefinition
+  c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(78): note: see previous definition of 'IDC_Mainshutdown'
+c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(125): warning C4005: 'IDC_Mainsleep': macro redefinition
+  c:\users\anh huy\desktop\groupwin\code\group03_window-master\group03_window-master\group03_window-master\code\group03_hook-master\group03_hook-master\groupwin\resource.h(77): note: see previous definition of 'IDC_Mainsleep'
+resource.h(123): warning RC4005: 'IDC_Mainlock' : redefinition
+  
+resource.h(124): warning RC4005: 'IDC_Mainshutdown' : redefinition
+  
+resource.h(125): warning RC4005: 'IDC_Mainsleep' : redefinition
+  
+  GroupWin.vcxproj -> C:\Users\anh huy\Desktop\GroupWin\code\GROUP03_WINDOW-master\GROUP03_WINDOW-master\GROUP03_WINDOW-master\code\GROUP03_HOOK-master\GROUP03_HOOK-master\x64\Debug\GroupWin.exe
