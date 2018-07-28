@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  GroupWin.cpp
+c:\users\anh huy\desktop\groupwin\lực\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(11): warning C4005: 'IDT_TIMER1': macro redefinition
+  c:\users\anh huy\desktop\groupwin\lực\group03_hook-master\group03_hook-master\groupwin\resource.h(128): note: see previous definition of 'IDT_TIMER1'
+  GroupWin.vcxproj -> C:\Users\anh huy\Desktop\GroupWin\lực\GROUP03_HOOK-master\GROUP03_HOOK-master\x64\Debug\GroupWin.exe

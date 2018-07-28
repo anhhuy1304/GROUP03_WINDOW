@@ -1,0 +1,5 @@
+EXPORTS
+installLockMouseHook @1
+installLockSomeKey @2
+RemoveLockKey @3
+RemoveLockMouse @4
