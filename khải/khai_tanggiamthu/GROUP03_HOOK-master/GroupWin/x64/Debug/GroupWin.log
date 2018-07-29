@@ -1,0 +1,6 @@
+﻿  GroupWin.cpp
+c:\users\tobi9\desktop\new folder\group03_window-master\code-khai-systemtray\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(212): warning C4311: 'type cast': pointer truncation from 'LPRECT' to 'DWORD'
+c:\users\tobi9\desktop\new folder\group03_window-master\code-khai-systemtray\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(212): warning C4302: 'type cast': truncation from 'LPRECT' to 'DWORD'
+c:\users\tobi9\desktop\new folder\group03_window-master\code-khai-systemtray\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(214): warning C4311: 'type cast': pointer truncation from 'LPRECT' to 'DWORD'
+c:\users\tobi9\desktop\new folder\group03_window-master\code-khai-systemtray\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(214): warning C4302: 'type cast': truncation from 'LPRECT' to 'DWORD'
+  GroupWin.vcxproj -> C:\Users\tobi9\Desktop\New folder\GROUP03_WINDOW-master\code-khai-systemtray\GROUP03_HOOK-master\GROUP03_HOOK-master\x64\Debug\GroupWin.exe
