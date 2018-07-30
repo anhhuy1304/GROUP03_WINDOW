@@ -1,0 +1,7 @@
+﻿  GroupWin.cpp
+c:\users\anh huy\desktop\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(1508): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\anh huy\desktop\group03_hook-master\group03_hook-master\groupwin\groupwin.cpp(1523): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  All 1081 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GroupWin.vcxproj -> C:\Users\anh huy\Desktop\GROUP03_HOOK-master\GROUP03_HOOK-master\x64\Release\GroupWin.exe
